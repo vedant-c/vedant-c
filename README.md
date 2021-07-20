@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### Vedant Chaudhari
+
+I am an avid learner and constantly look for areas and projects to implement the skills I have learned. I have a fair understanding of the Python programming language including Object-Oriented Programming concepts. I regularly practice coding and try to discover new concepts and libraries.
+
 <!--
 **vedant-c/vedant-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
